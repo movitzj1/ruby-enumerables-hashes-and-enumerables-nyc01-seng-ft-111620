@@ -13,7 +13,7 @@ def happy_birthday(birthday_kids)
       winner = name
     end
   end
-  puts winner
+  p winner
 end
 
 birthday_kids = {
